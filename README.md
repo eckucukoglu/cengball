@@ -21,3 +21,8 @@ http://senior.ceng.metu.edu.tr/2014/projectcontorium/first-gameplay-video-releas
 
 Team:
 http://senior.ceng.metu.edu.tr/2014/projectcontorium/project11.htm
+
+# Screenshots
+![alt tag](http://senior.ceng.metu.edu.tr/2014/projectcontorium/img/screenshots/1.png)
+![alt tag](http://senior.ceng.metu.edu.tr/2014/projectcontorium/img/screenshots/2.png)
+![alt tag](http://senior.ceng.metu.edu.tr/2014/projectcontorium/img/screenshots/5.png)
