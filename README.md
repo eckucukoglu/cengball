@@ -1,5 +1,5 @@
 # cengball
-CengBall is a soccer programming game with 2D simulation.
+CengBall is a soccer programming game with 2D simulation. It can be played by user programmed artificial intelligence codes. Game has a contingency problem with its stochastic and fully obversable structure. Also, provides goal-based agent implementation in a semi-dynamic environment.
 
 Download game here: http://senior.ceng.metu.edu.tr/2014/projectcontorium/download.htm
 
