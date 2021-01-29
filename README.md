@@ -17,7 +17,7 @@ API:
 http://senior.ceng.metu.edu.tr/2014/projectcontorium/api.htm
 
 Gameplay video (in Turkish):
-http://senior.ceng.metu.edu.tr/2014/projectcontorium/first-gameplay-video-released.htm
+https://youtu.be/fT2qer2XRxw
 
 Team:
 http://senior.ceng.metu.edu.tr/2014/projectcontorium/project11.htm
